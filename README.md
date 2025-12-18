@@ -10,12 +10,6 @@ The project uses the **PlantVillage dataset** from Kaggle:
 
 ---
 
-## 🧠 Trained Model
-You can download the pre-trained model here:  
-👉 [Google Drive Link](https://drive.google.com/file/d/1rKh-IElSdHTqax7XdfSdZTn-r8T_qWPf/view?usp=sharing)
-
----
-
 ## ⚙️ Features
 - Image classification using CNN
 - Detects plant diseases from leaf images
